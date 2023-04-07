@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "88c4f51ba4d6a42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f10fe1c431be6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "931943a04073a78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub Driver/State Machine/machines/Base State Machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74f1106bfc766ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub Driver/State Machine/machines/Function Test Machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0970aa958fbea69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub Driver/State Machine/machines/Prequalify Machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b512cd3f7021ddc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d820dd325cb9f063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16121464af757fdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8331098901121e36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c99501ed09c2e64d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e334031e0aa93663",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34ca46a97392e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135dd3a03e0905f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sub Driver/State Machine/machines/Prequalify Machine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c592da02429c5c8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sub Driver/State Machine/machines/Prequalify Machine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc40470870a30a6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0d2b81c03b4cf82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sub Driver/State Machine/machines/Prequalify Machine.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0970aa958fbea69a",
+  "lastOpenFiles": [
+    "Sub Driver/State Machine/machines/Function Test Machine.md",
+    "Sub Driver/State Machine/machines/Prequalify Machine.md",
+    "Sub Driver/State Machine/machines/Base State Machine.md",
+    "Sub Driver/State Machine/interact/Torpedo Class Documentation.md",
+    "Sub Driver/State Machine/machines",
+    "Sub Driver/State Machine/interact/Pole Small Turns Class Documentation.md",
+    "Sub Driver/State Machine/interact/Octagon Class Documentation.md",
+    "Sub Driver/State Machine/interact/Gate Class Documentation.md",
+    "Sub Driver/State Machine/interact/Bouy Class Documentation.md",
+    "Sub Driver/Classes/Detection Class Documentation.md",
+    "Sub Driver/State Machine/interact",
+    "Sub Driver/Execute With State.md",
+    "Sub Visualizer/Sub Visualizer GUI using PySimpleGUI.md",
+    "Sub Driver/State Machine",
+    "Sub Driver/Classes",
+    "Untitled",
+    "Sub Driver",
+    "Untitled.md",
+    "Network Wrapper/Create TRT From Local.md",
+    "Sub Visualizer",
+    "Network Wrapper/Jetson Live Object Detection.md",
+    "Network Wrapper/src/Object Detector.md",
+    "Network Wrapper/src/vision opencv/cv_bridge"
+  ]
+}
